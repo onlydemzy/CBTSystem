@@ -1,0 +1,17 @@
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\bin\Debug\net8.0\CBTSystem.Infrastructure.deps.json
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\bin\Debug\net8.0\CBTSystem.Infrastructure.dll
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\bin\Debug\net8.0\CBTSystem.Infrastructure.pdb
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\CBTSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\CBTSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\CBTSystem.Infrastructure.AssemblyInfo.cs
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\CBTSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\CBTSystem.Infrastructure.dll
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\refint\CBTSystem.Infrastructure.dll
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\CBTSystem.Infrastructure.pdb
+C:\vs\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\ref\CBTSystem.Infrastructure.dll
+C:\VS\CBTSystem\src\CBTSystem.Infrastructure\bin\Debug\net8.0\CBTSystem.Application.dll
+C:\VS\CBTSystem\src\CBTSystem.Infrastructure\bin\Debug\net8.0\CBTSystem.Domain.dll
+C:\VS\CBTSystem\src\CBTSystem.Infrastructure\bin\Debug\net8.0\CBTSystem.Application.pdb
+C:\VS\CBTSystem\src\CBTSystem.Infrastructure\bin\Debug\net8.0\CBTSystem.Domain.pdb
+C:\VS\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\CBTSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\VS\CBTSystem\src\CBTSystem.Infrastructure\obj\Debug\net8.0\CBTSystem.Infrastructure.csproj.CopyComplete

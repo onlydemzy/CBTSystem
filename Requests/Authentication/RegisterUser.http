@@ -1,0 +1,13 @@
+@host=http://localhost:5245/api
+POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+    "userName":"onlydemzy",
+    "fullName":"Udeme Bassey",
+    "email":"demzy247@gmail.com",
+    "ProgrammeCode":"CSC001",
+    "Password":"drink1",
+    "UserRole":"Instructor"
+    
+}

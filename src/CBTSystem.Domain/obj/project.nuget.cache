@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oywKgvA4Fzv7bF4rpYl86H24B3qJFtajiG6l56nRLqXYp8t3SF+T5g4+0A9mGzrYh2BMN+2PXfpKHaz7NQ1Q8A==",
+  "success": true,
+  "projectFilePath": "C:\\VS\\CBTSystem\\src\\CBTSystem.Domain\\CBTSystem.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HomePC\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\HomePC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\HomePC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

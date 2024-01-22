@@ -1,0 +1,12 @@
+C:\vs\CBTSystem\src\CBTSystem.Domain\bin\Debug\net8.0\CBTSystem.Domain.deps.json
+C:\vs\CBTSystem\src\CBTSystem.Domain\bin\Debug\net8.0\CBTSystem.Domain.dll
+C:\vs\CBTSystem\src\CBTSystem.Domain\bin\Debug\net8.0\CBTSystem.Domain.pdb
+C:\vs\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\CBTSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\CBTSystem.Domain.AssemblyInfoInputs.cache
+C:\vs\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\CBTSystem.Domain.AssemblyInfo.cs
+C:\vs\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\CBTSystem.Domain.csproj.CoreCompileInputs.cache
+C:\vs\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\CBTSystem.Domain.dll
+C:\vs\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\refint\CBTSystem.Domain.dll
+C:\vs\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\CBTSystem.Domain.pdb
+C:\vs\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\ref\CBTSystem.Domain.dll
+C:\VS\CBTSystem\src\CBTSystem.Domain\obj\Debug\net8.0\CBTSystem.Domain.csproj.AssemblyReference.cache

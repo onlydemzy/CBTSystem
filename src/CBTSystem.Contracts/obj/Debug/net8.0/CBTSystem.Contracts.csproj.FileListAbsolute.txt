@@ -1,0 +1,11 @@
+C:\vs\CBTSystem\src\CBTSystem.Contracts\bin\Debug\net8.0\CBTSystem.Contracts.deps.json
+C:\vs\CBTSystem\src\CBTSystem.Contracts\bin\Debug\net8.0\CBTSystem.Contracts.dll
+C:\vs\CBTSystem\src\CBTSystem.Contracts\bin\Debug\net8.0\CBTSystem.Contracts.pdb
+C:\vs\CBTSystem\src\CBTSystem.Contracts\obj\Debug\net8.0\CBTSystem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs\CBTSystem\src\CBTSystem.Contracts\obj\Debug\net8.0\CBTSystem.Contracts.AssemblyInfoInputs.cache
+C:\vs\CBTSystem\src\CBTSystem.Contracts\obj\Debug\net8.0\CBTSystem.Contracts.AssemblyInfo.cs
+C:\vs\CBTSystem\src\CBTSystem.Contracts\obj\Debug\net8.0\CBTSystem.Contracts.csproj.CoreCompileInputs.cache
+C:\vs\CBTSystem\src\CBTSystem.Contracts\obj\Debug\net8.0\CBTSystem.Contracts.dll
+C:\vs\CBTSystem\src\CBTSystem.Contracts\obj\Debug\net8.0\refint\CBTSystem.Contracts.dll
+C:\vs\CBTSystem\src\CBTSystem.Contracts\obj\Debug\net8.0\CBTSystem.Contracts.pdb
+C:\vs\CBTSystem\src\CBTSystem.Contracts\obj\Debug\net8.0\ref\CBTSystem.Contracts.dll

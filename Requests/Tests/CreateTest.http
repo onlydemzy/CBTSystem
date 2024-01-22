@@ -1,0 +1,11 @@
+@host=http://localhost:5245
+POST {{host}}/api/test/createtest
+Content-Type: application/json
+
+{
+    "title":"1st Semester 2022/2023 Exams",
+    "institution": "AKSCOE Afaha Nsit",
+    "startdate":"2024-01-20",
+    "enddate":"2024-01-21",
+    "studentSubjectGroupings":[]
+}
